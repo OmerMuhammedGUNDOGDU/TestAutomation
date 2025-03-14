@@ -1,4 +1,4 @@
-name: Java CI with Maven
+name: Java CICD with Maven
 
 on:
   push:
@@ -22,6 +22,7 @@ jobs:
       uses: actions/setup-java@v2
       with:
         java-version: '11'
+        distribution: 'adoptopenjdk'
 
     # 3. Maven'ı kullanarak bağımlılıkları yükle ve projeyi build et
     - name: Build with Maven
