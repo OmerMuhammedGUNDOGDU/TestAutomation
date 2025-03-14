@@ -1,7 +1,7 @@
 ##API Testleri Dökümantasyonu
 Bu proje, API test otomasyonu ve Postman ile yapılan test senaryolarını içermektedir. Aşağıdaki link üzerinden test süreçlerine dair hazırladığım detaylı dökümana ulaşabilirsiniz:
 
-[API Test Dökümantasyonu - Postman}(https://documenter.getpostman.com/view/22831578/2sAYk8vi7y#13124bfe-df0b-4c58-9ccf-c30fdabe1f9d) 
+[API Test Dökümantasyonu - Postman](https://documenter.getpostman.com/view/22831578/2sAYk8vi7y#13124bfe-df0b-4c58-9ccf-c30fdabe1f9d) 
 
 ###Test Senaryoları
 Başarılı API Yanıtları: API'nin doğru bir şekilde beklenen veri döndürüp döndürmediğini test eden senaryolar.
